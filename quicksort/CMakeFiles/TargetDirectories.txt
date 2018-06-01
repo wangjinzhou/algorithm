@@ -1,3 +1,0 @@
-/root/code/algorithm-archive/quicksort/CMakeFiles/rebuild_cache.dir
-/root/code/algorithm-archive/quicksort/CMakeFiles/edit_cache.dir
-/root/code/algorithm-archive/quicksort/CMakeFiles/quicksort.dir
